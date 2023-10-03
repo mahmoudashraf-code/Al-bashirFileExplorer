@@ -1,7 +1,13 @@
+
 # Al-Bashir File Explorer
 
 This is a Node.js-based file explorer app. It allows you to browse your local file system, view files and folders.
 
+
+
+## Screenshots
+
+![App Screenshot](screenshot.png)
 
 
 ## Features
